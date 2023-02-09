@@ -38,5 +38,6 @@ Please get in touch with me on <a href="https://linkedin.com/in/MadhuPIoT"> Link
 
 # Free Workshop on IoT
 Interested Colleges can ping us <a href="https://makeskilled.com/college-registration-form/">Register your College</a> Here.
-<br/>
-<img src="Free Workshop on IoT.png" height="600" width="400"></a>
+<br/> <br/>
+
+<img src="Free Workshop on IoT.png" height="600" width="500"></a>
