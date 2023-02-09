@@ -25,6 +25,12 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
     <td>DHT11 Sensory data (Humidity, Temperature) are uploaded to AWS IoT Core through ESP32 WiFi-Chip</td>
     <td><a href="https://github.com/maddydevgits/vit-ap-fdp-session/tree/main/task1">Code</a></td>
   </tr>
+  <tr>
+    <td>2</td>
+    <td>Controlling Device from AWS IoT</td>
+    <td>A device is connected at GPIO2 which will be controlled from AWS IoT Core through ESP32 WiFi-Chip</td>
+    <td><a href="https://github.com/maddydevgits/vit-ap-fdp-session/tree/main/task2">Code</a></td>
+  </tr>
 </table>
 
 # For questions
