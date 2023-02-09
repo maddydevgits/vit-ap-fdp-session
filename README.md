@@ -11,6 +11,22 @@ This is a scenario in which the sensory data from ESP32 will be uploading data t
 
 Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled. He has 10+ years of experience in building IoT products from prototype stage to production stage. He trained more than 1.8 lakh students and 10K+ faculties across India on various cutting-edge technologies like IoT, Machine Learning, Cloud Computing, Augmented and Virtual Reality, Robotics, Blockchain etc...
 
+# Activities
+<table>
+  <tr>
+    <th>S.No</th>
+    <th>Activity Name</th>
+    <th>Activity Agenda</th>
+    <th>Sample Code</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Live Streaming of Sensory Data</td>
+    <td>DHT11 Sensory data (Humidity, Temperature) are uploaded to AWS IoT Core through ESP32 WiFi-Chip</td>
+    <td><a href="https://github.com/maddydevgits/vit-ap-fdp-session/tree/main/task1">Code</a></td>
+  </tr>
+</table>
+
 # For questions
 Please get in touch with me on <a href="https://linkedin.com/in/MadhuPIoT"> LinkedIn </a>
 
