@@ -13,6 +13,14 @@ This is a scenario in which the sensory data from ESP32 will be uploading data t
 
 Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled. He has 10+ years of experience in building IoT products from prototype stage to production stage. He trained more than 1.8 lakh students and 10K+ faculties across India on various cutting-edge technologies like IoT, Machine Learning, Cloud Computing, Augmented and Virtual Reality, Robotics, Blockchain etc...
 
+# Steps
+
+1. Create a Certificate
+2. Create a Policy
+3. Add Policy to the Certificate
+4. Create a Thing
+5. We have to attach Certificate
+
 # Activities
 <table>
   <tr>
