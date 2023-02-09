@@ -2,7 +2,9 @@
 School of Electronics Engineering (SENSE), VIT-AP University is organising one week workshop on Industrial Approach to Internet of Things and its Research Challenges from 8th to 14th February 2023.
 
 # About my Session in FDP
-Real-Time Live Streaming of Sensory Data on Cloud
+```diff
+@@ Real-Time Live Streaming of Sensory Data on Cloud @@
+```
 
 This is a scenario in which the sensory data from ESP32 will be uploading data to AWS IoT Core and further it stores in dynamodb and can create notifications using Simple Notification Service. Using AWS MQTT Test Client, we can be able to control the devices with the help of MQTT protocol.
 
