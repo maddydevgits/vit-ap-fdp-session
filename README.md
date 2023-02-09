@@ -36,4 +36,7 @@ Madhu Parvathaneni alias MS is a Solutions Architect and mentor at Make Skilled.
 # For questions
 Please get in touch with me on <a href="https://linkedin.com/in/MadhuPIoT"> LinkedIn </a>
 
-
+# Free Workshop on IoT
+Interested Colleges can ping us <a href="https://makeskilled.com/college-registration-form/">Register your College</a> Here.
+<br/>
+<img src="Free Workshop on IoT.png" height="600" width="400"></a>
